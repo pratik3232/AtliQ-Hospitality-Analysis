@@ -1,28 +1,49 @@
-# Atliq Hardwares Codebasics Resume Project Challenge 4
-# Domain:  Consumer Goods | Function: Executive Management
+Hospitality live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiZjc1ZDU4NzQtYzZlNC00Njc5LThjMzQtN2I0MmZiNDQyM2IyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-## Overview
-This repository contains the solution to the SQL challenge at Atliq Hardwares. The challenge aims to demonstrate both technical SQL skills and the ability to present business insights in a clear and actionable manner.
-Atliq Hardwares, a leading computer hardware producer in India, has identified the need for more data-driven decision-making. In order to support their growing business needs, they are expanding their data analytics team and are looking for candidates who can handle technical queries while effectively communicating insights to top-level management.
+Presentation- https://github.com/Datapb123/Hospitality/blob/main/Hospitality.pdf
 
-## Task Overview
-1. **Analyzed** 10 ad-hoc business requests to identify key data insights.
-2. **Executed SQL queries** using **MySQL** to extract necessary data.
-3. **Excel** for initial data analysis and some basic visualizations.
-4. **Power BI** to visualize and present the insights.
 
-## Key Insights
-- **Unique product count** increased by **36.33%** in 2021.
-- **Notebook category** leads with **129 unique products**. **Networking** and **Storage** show growth potential.
-- **Strong sales** in **late 2020** and **mid-2021**; **low sales** in **March 2020** (0.38M).
-- **Retailer channel** leads in sales with **73.23%** share.
-- **N & S** show high demand, especially for **storage devices**.
-- **PC sales** are low, indicating **weak demand**.
+# AtliQ Grands Business & Data Intelligence Dashboard
 
-## Tools Used
-- **MySQL**: SQL queries for data extraction.
-- **Excel** & **Power BI**: For data visualization and insights presentation.
+This project aims to provide key performance insights and data-driven strategies to help AtliQ Grands regain its market share and increase revenue in the luxury and business hotel categories. With a data analytics approach, we plan to improve decision-making, optimize pricing strategies, and enhance customer satisfaction, ultimately making AtliQ Grands more competitive in the hospitality market.
 
-## Skills Demonstrated
-- **Technical Skills**: SQL query execution, data analysis, and visualization.
-- **Soft Skills**: Clear communication, data storytelling, and presentation.
+#Project Overview
+
+AtliQ Grands, a chain of five-star hotels across India, is facing challenges in maintaining market share and revenue due to ineffective decision-making and increased competition. This project focuses on implementing Business and Data Intelligence to provide actionable insights, improve operational efficiency, and enhance revenue management. Through this dashboard, decision-makers at AtliQ Grands will have access to real-time performance metrics, which will help in identifying growth opportunities, refining pricing strategies, and managing revenue more effectively.
+
+#Features:
+
+*Overview: https://github.com/Datapb123/Hospitality/blob/main/Overview.PNG
+
+Track occupancy rates, Revenue Per Available room, customer Rating, Average Daily rate, Daily Booked Room Nights, Daily Utilized Room Nights, Daily Sellable Rooms Nights, Average Daily rates and other key metrics across cities and hotel categories.
+
+*Revenue Insights: https://github.com/Datapb123/Hospitality/blob/main/Revenue.PNG
+
+Understand revenue trends, revenue fluctuations, cancellations, and performance by hotel category (Premium, Elite, Standard, etc.).
+
+*Booking Performance Analysis: https://github.com/Datapb123/Hospitality/blob/main/Booking.PNG
+
+-Analyze and compare the Booking performance in different cities like Delhi, Mumbai, Hyderabad, and Bangalore.
+
+-Detailed analysis of business and luxury hotel categories, including revenue generation by week and by hotel.
+
+-Assess customer ratings by city, hotel, and class to identify areas for improvement.
+
+
+## Key Skills
+
+*Data Analytics & Business Intelligence.
+
+*Data Visualization & Reporting.
+
+*Revenue & Pricing Optimization
+
+*Revenue management tools and models (e.g., RevPAR, DSRN, DURN, ADR, Occupancy Rate Analysis).
+
+*Problem Solving & Analytical Thinking.
+
+*Adaptability & Learning.
+
+*Client-Centric Approach.
+
+*Attention to detail.
