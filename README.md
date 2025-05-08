@@ -4,7 +4,7 @@
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY5Njg5ZjYtY2E3MC00YjQ3LTgwMjItYmViODczNTlkZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 📄 **Presentation**:  
-[Download PDF](https://github.com/Datapb123/Hospitality/blob/main/Hospitality.pdf)
+[Download PDF](https://github.com/pratik3232/AtliQ-Hospitality-Analysis/blob/3d0a8af6f4fd92cfa6d1162da265e05b0be9e998/AtliQ%20Hospitality%20Analysis%20.pdf)
 
 ---
 
@@ -26,14 +26,14 @@ Through this data-driven solution, stakeholders can access real-time performance
 ---
 
 ### 💰 Revenue Insights  
-[View Screenshot](https://github.com/Datapb123/Hospitality/blob/main/Revenue.PNG)  
+[View Screenshot](https://github.com/pratik3232/AtliQ-Hospitality-Analysis/blob/3d0a8af6f4fd92cfa6d1162da265e05b0be9e998/Revenue.jpg)  
 - Analyze **revenue trends** and fluctuations.  
 - Track **cancellations** and performance by **hotel class** (Premium, Elite, Standard, etc.).
 
 ---
 
 ### 📈 Booking Performance Analysis  
-[View Screenshot](https://github.com/Datapb123/Hospitality/blob/main/Booking.PNG)  
+[View Screenshot](https://github.com/pratik3232/AtliQ-Hospitality-Analysis/blob/3d0a8af6f4fd92cfa6d1162da265e05b0be9e998/Performance.jpg)  
 - Compare booking performance across **Delhi**, **Mumbai**, **Hyderabad**, and **Bangalore**.  
 - View revenue breakdown by **week** and **hotel** for both business and luxury segments.  
 - Assess **customer satisfaction ratings** by city, hotel, and class.
