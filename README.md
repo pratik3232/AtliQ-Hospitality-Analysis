@@ -19,7 +19,7 @@ Through this data-driven solution, stakeholders can access real-time performance
 ## 📂 Project Features
 
 ### 📍 Overview  
-[View Screenshot](https://github.com/Datapb123/Hospitality/blob/main/Overview.PNG)  
+[View Screenshot](https://github.com/pratik3232/AtliQ-Hospitality-Analysis/blob/e4834a426fc0f6bc3ce20e99ada668ac14184272/Overview.jpg)  
 - Track **occupancy rates**, **Revenue per Available Room (RevPAR)**, **customer ratings**, and **Average Daily Rate (ADR)**.  
 - Monitor daily room metrics like **Booked Room Nights**, **Utilized Room Nights**, and **Sellable Room Nights**.
 
