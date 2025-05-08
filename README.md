@@ -1,49 +1,52 @@
-Hospitality live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiZjc1ZDU4NzQtYzZlNC00Njc5LThjMzQtN2I0MmZiNDQyM2IyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# 🏨 AtliQ Grands – Business & Data Intelligence Dashboard
 
-Presentation- https://github.com/Datapb123/Hospitality/blob/main/Hospitality.pdf
+📊 **Live Power BI Dashboard**:  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY5Njg5ZjYtY2E3MC00YjQ3LTgwMjItYmViODczNTlkZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+📄 **Presentation**:  
+[Download PDF](https://github.com/Datapb123/Hospitality/blob/main/Hospitality.pdf)
 
-# AtliQ Grands Business & Data Intelligence Dashboard
+---
 
-This project aims to provide key performance insights and data-driven strategies to help AtliQ Grands regain its market share and increase revenue in the luxury and business hotel categories. With a data analytics approach, we plan to improve decision-making, optimize pricing strategies, and enhance customer satisfaction, ultimately making AtliQ Grands more competitive in the hospitality market.
+## 📌 Project Summary
 
-#Project Overview
+**AtliQ Grands**, a chain of five-star hotels across India, is facing declining revenue and market share due to inefficient decision-making and rising competition. This project delivers a comprehensive **Business & Data Intelligence Dashboard** to help leadership optimize performance, refine pricing strategies, and enhance customer satisfaction.
 
-AtliQ Grands, a chain of five-star hotels across India, is facing challenges in maintaining market share and revenue due to ineffective decision-making and increased competition. This project focuses on implementing Business and Data Intelligence to provide actionable insights, improve operational efficiency, and enhance revenue management. Through this dashboard, decision-makers at AtliQ Grands will have access to real-time performance metrics, which will help in identifying growth opportunities, refining pricing strategies, and managing revenue more effectively.
+Through this data-driven solution, stakeholders can access real-time performance metrics across cities and hotel categories, enabling more effective and timely decisions.
 
-#Features:
+---
 
-*Overview: https://github.com/Datapb123/Hospitality/blob/main/Overview.PNG
+## 📂 Project Features
 
-Track occupancy rates, Revenue Per Available room, customer Rating, Average Daily rate, Daily Booked Room Nights, Daily Utilized Room Nights, Daily Sellable Rooms Nights, Average Daily rates and other key metrics across cities and hotel categories.
+### 📍 Overview  
+[View Screenshot](https://github.com/Datapb123/Hospitality/blob/main/Overview.PNG)  
+- Track **occupancy rates**, **Revenue per Available Room (RevPAR)**, **customer ratings**, and **Average Daily Rate (ADR)**.  
+- Monitor daily room metrics like **Booked Room Nights**, **Utilized Room Nights**, and **Sellable Room Nights**.
 
-*Revenue Insights: https://github.com/Datapb123/Hospitality/blob/main/Revenue.PNG
+---
 
-Understand revenue trends, revenue fluctuations, cancellations, and performance by hotel category (Premium, Elite, Standard, etc.).
+### 💰 Revenue Insights  
+[View Screenshot](https://github.com/Datapb123/Hospitality/blob/main/Revenue.PNG)  
+- Analyze **revenue trends** and fluctuations.  
+- Track **cancellations** and performance by **hotel class** (Premium, Elite, Standard, etc.).
 
-*Booking Performance Analysis: https://github.com/Datapb123/Hospitality/blob/main/Booking.PNG
+---
 
--Analyze and compare the Booking performance in different cities like Delhi, Mumbai, Hyderabad, and Bangalore.
+### 📈 Booking Performance Analysis  
+[View Screenshot](https://github.com/Datapb123/Hospitality/blob/main/Booking.PNG)  
+- Compare booking performance across **Delhi**, **Mumbai**, **Hyderabad**, and **Bangalore**.  
+- View revenue breakdown by **week** and **hotel** for both business and luxury segments.  
+- Assess **customer satisfaction ratings** by city, hotel, and class.
 
--Detailed analysis of business and luxury hotel categories, including revenue generation by week and by hotel.
+---
 
--Assess customer ratings by city, hotel, and class to identify areas for improvement.
+## 🛠️ Skills & Tools Applied
 
-
-## Key Skills
-
-*Data Analytics & Business Intelligence.
-
-*Data Visualization & Reporting.
-
-*Revenue & Pricing Optimization
-
-*Revenue management tools and models (e.g., RevPAR, DSRN, DURN, ADR, Occupancy Rate Analysis).
-
-*Problem Solving & Analytical Thinking.
-
-*Adaptability & Learning.
-
-*Client-Centric Approach.
-
-*Attention to detail.
+- **Data Analytics & Business Intelligence**
+- **Power BI – Dashboard Development**
+- **Data Visualization & Storytelling**
+- **Revenue & Pricing Optimization**
+- **Key Metrics**: RevPAR, ADR, DSRN, DURN, Occupancy Rate
+- **Problem Solving & Critical Thinking**
+- **Client-Focused Analysis**
+- **Attention to Detail & Data Accuracy**
